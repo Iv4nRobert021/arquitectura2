@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(224, 205, 162);
+    margin: 45px;
+    
+}
+table, th, td{
+    border: 1px solid rgb(235, 138, 13);
+    border-collapse: collapse;
+    margin: auto;
+}
+th, td{
+    padding: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 35px;
+}
+.imagenes{
+    justify-content: center;
+}
+.separador{
+    margin: auto;
+}
+.referen table{
+    margin: 30px 30px ;
+    padding: 30px;
+    text-transform: uppercase;
+}
